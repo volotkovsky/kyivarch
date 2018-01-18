@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ARCH.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffb9abc</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffb9abc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff4541b2</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6daf92</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffb9abc</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffb9abc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6daf92</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6daf92</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffc8d79a</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffc8d79a</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffb9abc</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffb9abc</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff4541b2</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff4541b2</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6daf92</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff8caf69</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffc8d79a</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff8caf69</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff4541b2</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9eb9dd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>fffb9abc</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffb9abc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffc8d79a</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>ARCH</name>
+		<open>1</open>
+		<Folder>
+			<name>2010-2020</name>
+		</Folder>
+		<Folder>
+			<name>2000-2009</name>
+		</Folder>
+		<Folder>
+			<name>1990-1999</name>
+		</Folder>
+		<Folder>
+			<name>1980-1989</name>
+			<open>1</open>
+			<Placemark>
+				<name>Будинок профспілок</name>
+				<open>1</open>
+				<description>1975-1980
+Архітектори О. Малиновський, О. Комаровський
+
+Згорів в ніч на 19 лютого 2014, ведуться відновлювальні роботи</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/27830543</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>16</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>9</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5249611,50.4509907,0 30.5251624,50.4511424,0 30.524957,50.4512485,0 30.5247531,50.45110480000001,0 30.5249611,50.4509907,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/260794539</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>14</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>10</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5256042,50.4514618,0 30.5254096,50.4515682,0 30.5253679,50.4515386,0 30.5253005,50.45149060000001,0 30.5250164,50.45129049999999,0 30.5252185,50.451183,0 30.5252923,50.45123639999999,0 30.5256042,50.4514618,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Будинок профспілок</name>
+				<description>1975-1980
+Архітектори О. Малиновський, О. Комаровський
+
+Згорів в ніч на 19 лютого 2014, ведуться відновлювальні роботи</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/156330170</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5244619,50.4508891,0 30.5246764,50.4510481,0 30.5242064,50.451303,0 30.5239966,50.4511437,0 30.5244619,50.4508891,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Будинок профспілок</name>
+				<description>1975-1980
+Архітектори О. Малиновський, О. Комаровський
+
+Згорів в ніч на 19 лютого 2014, ведуться відновлювальні роботи</description>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/260794544</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>18/2</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>damaged</value>
+					</Data>
+					<Data name="building:levels">
+						<value>9</value>
+					</Data>
+					<Data name="name">
+						<value>Будинок профспілок</value>
+					</Data>
+					<Data name="name:de">
+						<value>Gewerkschaftshaus</value>
+					</Data>
+					<Data name="name:en">
+						<value>Trade Unions Building</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Дом профсоюзов</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Будинок профспілок</value>
+					</Data>
+					<Data name="wikidata">
+						<value>Q15768828</value>
+					</Data>
+					<Data name="wikipedia">
+						<value>uk:Будинок профспілок України</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5249611,50.4509907,0 30.5247618,50.4511,0 30.5247531,50.45110480000001,0 30.5246764,50.4510481,0 30.5244619,50.4508891,0 30.52436240000001,50.4509435,0 30.5239966,50.4511437,0 30.523736,50.4512856,0 30.5235764,50.4513736,0 30.5234021,50.4512449,0 30.5242386,50.4507862,0 30.5244947,50.4506458,0 30.5245209,50.4506651,0 30.5249611,50.4509907,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1970-1979</name>
+		</Folder>
+		<Folder>
+			<name>1960-1969</name>
+			<open>1</open>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1963
+арх. Г. М. Колесов, А. І. Малиновський
+інж. Я. М. Ліберман</description>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/32036692</value>
+					</Data>
+					<Data name="addr:city">
+						<value>Київ</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>2\54</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Тараса Шевченка бульвар</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>9</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5200244,50.44265229999999,0 30.5200781,50.44280010000001,0 30.5199425,50.4428201,0 30.5199211,50.4427613,0 30.5190451,50.44289020000001,0 30.5190279,50.4428428,0 30.5189588,50.4428529,0 30.518944,50.442812,0 30.5200244,50.44265229999999,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Готель &quot;Україна&quot;</name>
+				<open>1</open>
+				<description>1954-1961
+
+арх. А. В. Добровольський, Б. І. Приймак, В. А. Созанський, А. М. Мілецький, А. Я. Косенко</description>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/30643028</value>
+					</Data>
+					<Data name="addr:city">
+						<value>Київ</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>4</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Героїв Небесної Сотні алея</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="height">
+						<value>66</value>
+					</Data>
+					<Data name="name">
+						<value>Україна</value>
+					</Data>
+					<Data name="name:en">
+						<value>Ukraine</value>
+					</Data>
+					<Data name="name:pl">
+						<value>Ukraina</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Украина</value>
+					</Data>
+					<Data name="name:tr">
+						<value>Ukrayna</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Україна</value>
+					</Data>
+					<Data name="old_name">
+						<value>Москва</value>
+					</Data>
+					<Data name="roof:shape">
+						<value>flat</value>
+					</Data>
+					<Data name="tourism">
+						<value>hotel</value>
+					</Data>
+					<Data name="website">
+						<value>http://www.ukraine-hotel.kiev.ua/</value>
+					</Data>
+					<Data name="wheelchair">
+						<value>yes</value>
+					</Data>
+					<Data name="wikidata">
+						<value>Q633737</value>
+					</Data>
+					<Data name="wikipedia">
+						<value>uk:Україна (готель, Київ)</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5267332,50.4484408,0 30.5271916,50.4481992,0 30.52729980000001,50.4482824,0 30.5272008,50.44833460000001,0 30.5272748,50.4483915,0 30.5274975,50.4485639,0 30.5275558,50.44860859999999,0 30.5276381,50.448565,0 30.52775030000001,50.4486509,0 30.5273253,50.448876,0 30.5272273,50.4488009,0 30.5273407,50.4487408,0 30.5272678,50.44868500000001,0 30.5270489,50.4485157,0 30.5269766,50.44846,0 30.526847,50.4485283,0 30.5267332,50.4484408,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1944-1959</name>
+			<open>1</open>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/47172527</value>
+					</Data>
+					<Data name="addr:city">
+						<value>Київ</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>4</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Архітектора Городецького вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>4</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5237951,50.4488149,0 30.5239659,50.44875159999999,0 30.5239763,50.448763,0 30.5246882,50.4484995,0 30.5246523,50.4484601,0 30.5247842,50.4484113,0 30.5248924,50.4485298,0 30.5238778,50.4489054,0 30.5237951,50.4488149,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/178304524</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>34</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.52141,50.4466757,0 30.5215489,50.4470666,0 30.5213069,50.4471015,0 30.5212328,50.4468932,0 30.5209623,50.4469322,0 30.5208704,50.4466736,0 30.5209842,50.4466572,0 30.5210113,50.4467332,0 30.521228,50.4467019,0 30.52141,50.4466757,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/36864975</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>30/1</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>5</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5213001,50.4475283,0 30.5214509,50.44750659999999,0 30.5213895,50.447334,0 30.5216316,50.4472991,0 30.5216802,50.447436,0 30.5217301,50.4475764,0 30.52165670000001,50.44758690000001,0 30.5213373,50.447633,0 30.5213317,50.4476171,0 30.5213001,50.4475283,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114572693</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>17</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>apartments</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.52293390000001,50.4479745,0 30.5229033,50.4478926,0 30.5228424,50.4477296,0 30.5228098,50.44764249999999,0 30.5229239,50.44762519999999,0 30.5229628,50.44761929999999,0 30.5229442,50.4475696,0 30.5231106,50.44754440000001,0 30.5231698,50.4477028,0 30.5230451,50.4477217,0 30.5231285,50.447945,0 30.52293390000001,50.4479745,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/35155240</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>21</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+					<Data name="building:material">
+						<value>brick</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5221004,50.4456178,0 30.5224205,50.4455741,0 30.5224562,50.44568030000001,0 30.5223408,50.4456961,0 30.5225423,50.4462948,0 30.5226593,50.4466426,0 30.5227976,50.4466237,0 30.5228523,50.44678640000001,0 30.5226762,50.44681039999999,0 30.5226669,50.4467827,0 30.5226583,50.4467571,0 30.5224914,50.44677990000001,0 30.5224822,50.4467525,0 30.522383,50.4464578,0 30.5223494,50.4463579,0 30.5223302,50.44630089999999,0 30.5222353,50.4460187,0 30.5221735,50.4458352,0 30.5221004,50.4456178,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/47172525</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>13</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5231971,50.4484137,0 30.5233703,50.4483496,0 30.5237951,50.4488149,0 30.5238778,50.4489054,0 30.5237047,50.4489695,0 30.52343820000001,50.4486777,0 30.5232633,50.44848609999999,0 30.5231971,50.4484137,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Виконком Київської міської ради</name>
+				<open>1</open>
+				<description>1952-1957
+</description>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/27830597</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>36</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="amenity">
+						<value>townhall</value>
+					</Data>
+					<Data name="building">
+						<value>office</value>
+					</Data>
+					<Data name="building:levels">
+						<value>10</value>
+					</Data>
+					<Data name="name">
+						<value>Київська міська державна адміністрація</value>
+					</Data>
+					<Data name="name:de">
+						<value>Kiewer Landesverwaltung</value>
+					</Data>
+					<Data name="name:en">
+						<value>Kiev City State Administration</value>
+					</Data>
+					<Data name="name:pl">
+						<value>Kijowska Miejska Administracja Państwowa</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Киевская городская государственная администрация</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Київська міська державна адміністрація</value>
+					</Data>
+					<Data name="opening_hours">
+						<value>Mo-Th 09:00-13:00,13:45-18:00; Fr 09:00-16:45</value>
+					</Data>
+					<Data name="phone">
+						<value>+380442057337</value>
+					</Data>
+					<Data name="website">
+						<value>kievcity.gov.ua</value>
+					</Data>
+					<Data name="wheelchair">
+						<value>no</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.52081924415474,50.44635761517416,0 30.52068932968104,50.44637511993919,0 30.52070255678599,50.44641055164615,0 30.52053545397087,50.44643414062131,0 30.52052469968674,50.44641258800318,0 30.52005634807379,50.44648190940602,0 30.51997009582063,50.44625521729981,0 30.52044756552605,50.44618128217937,0 30.52044103015992,50.44615704323515,0 30.52060356063857,50.44613440924645,0 30.5206182837954,50.44616844069689,0 30.52073990062573,50.44615102465565,0 30.52067926538468,50.44598566565801,0 30.52062863114212,50.44599301463681,0 30.52058163750408,50.44586192976735,0 30.52090433085556,50.44582281610543,0 30.52095531204801,50.44595420091297,0 30.52118812607003,50.44662312916592,0 30.52087350495817,50.44667605683428,0 30.52082224862505,50.44653308608137,0 30.52087528680518,50.44652324837076,0 30.52081924415474,50.44635761517416,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1951–54
+арх. О. Власов, О. Малиновський
+частина житлового комплексу</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114571672</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>23</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>10</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.521987,50.4453448,0 30.5219207,50.4451506,0 30.521856,50.4449611,0 30.5220653,50.44493210000001,0 30.5222367,50.4449084,0 30.5223666,50.4452922,0 30.5221704,50.4453193,0 30.521987,50.4453448,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1951–54
+арх. О. Власов, О. Малиновський
+частина житлового комплексу</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114571981</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>27</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>10</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5216408,50.4443229,0 30.5215919,50.4441628,0 30.5215211,50.4439309,0 30.5216728,50.44391209999999,0 30.5218825,50.4438862,0 30.5220022,50.4442782,0 30.5216408,50.4443229,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/147322969</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>24</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5221375,50.448834,0 30.521934,50.4485037,0 30.5218244,50.4485304,0 30.5216922,50.44822,0 30.52172150000001,50.448216,0 30.5219194,50.4481855,0 30.5219488,50.4481815,0 30.52200940000001,50.44831200000001,0 30.5220654,50.4484327,0 30.5220955,50.4484817,0 30.5221711,50.44860510000001,0 30.522208,50.4486655,0 30.522283,50.4487872,0 30.5224921,50.44905059999999,0 30.522619,50.44917850000001,0 30.522435,50.4492715,0 30.5223777,50.44927690000001,0 30.5221827,50.4490313,0 30.5222715,50.4490028,0 30.5221375,50.448834,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1953-1954
+арх. А. Добровольський, О. Малиновський, П. Петрушенко
+відомий як &quot;Будинок із зіркою&quot;</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114572211</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>25</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="alt_name:de">
+						<value>Haus mit Stern</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>14</value>
+					</Data>
+					<Data name="height">
+						<value>85</value>
+					</Data>
+					<Data name="rooms">
+						<value>113</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5228161,50.4448865,0 30.5227807,50.4447845,0 30.5228156,50.4447796,0 30.5226439,50.4442854,0 30.5225959,50.4442922,0 30.5225596,50.4441878,0 30.522856,50.44414610000001,0 30.5230995,50.4448465,0 30.5228161,50.4448865,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Консерваторія</name>
+				<open>1</open>
+				<description>1955-1958
+Архітектори Лев Каток та Я. Красний
+
+Перебудовано з будівлі готелю &quot;Континенталь&quot; (1890-ті рр.), архітектори Едуард Брадтман та Георгій Шлейфер</description>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/31823030</value>
+					</Data>
+					<Data name="addr:city">
+						<value>Київ</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>1-3/11</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Архітектора Городецького вулиця</value>
+					</Data>
+					<Data name="amenity">
+						<value>university</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>4</value>
+					</Data>
+					<Data name="name">
+						<value>Національна музична академія України ім. П. І. Чайковського</value>
+					</Data>
+					<Data name="name:de">
+						<value>Nationale Musikakademie der Ukraine Peter Tschaikowski</value>
+					</Data>
+					<Data name="name:en">
+						<value>Tchaikovsky National Music Academy of Ukraine</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Национальная музыкальная академия Украины имени П. И. Чайковского</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Національна музична академія України ім. П. І. Чайковського</value>
+					</Data>
+					<Data name="website">
+						<value>http://knmau.com.ua/</value>
+					</Data>
+					<Data name="wikidata">
+						<value>Q1515426</value>
+					</Data>
+					<Data name="wikipedia">
+						<value>uk:Національна музична академія України імені Петра Чайковського</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.52476310000001,50.4492721,0 30.5246624,50.4491668,0 30.5245776,50.44907800000001,0 30.5245372,50.4490357,0 30.5244585,50.4489534,0 30.5244622,50.448952,0 30.5245249,50.4489277,0 30.5245465,50.4489193,0 30.5246141,50.44889310000001,0 30.5249758,50.4487529,0 30.5249494,50.4487252,0 30.5250864,50.4486721,0 30.5258184,50.4483882,0 30.5260434,50.4486234,0 30.5260806,50.448662,0 30.5260165,50.4487113,0 30.5258336,50.44885180000001,0 30.5257848,50.4488008,0 30.5256621,50.4486724,0 30.5254249,50.4487643,0 30.5255474,50.44889250000001,0 30.5256001,50.4489477,0 30.52476310000001,50.4492721,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/173607149</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>22</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.522619,50.44917850000001,0 30.5228964,50.449401,0 30.5233601,50.44976019999999,0 30.5233284,50.4497769,0 30.5233891,50.4498234,0 30.5231065,50.4499736,0 30.5230678,50.4499442,0 30.5221948,50.4504259,0 30.522054,50.4503388,0 30.5222132,50.4502537,0 30.5221847,50.45023200000001,0 30.522956,50.4498221,0 30.52293420000001,50.4498054,0 30.52304120000001,50.4497494,0 30.5227247,50.4495039,0 30.522435,50.4492715,0 30.522619,50.44917850000001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1930-1941</name>
+			<open>1</open>
+			<Placemark>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/161019205</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>5</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5270133,50.4509788,0 30.5272475,50.4508568,0 30.5275435,50.4511348,0 30.5273502,50.451239,0 30.52730710000001,50.4511985,0 30.5273092,50.45111900000001,0 30.5273613,50.4510965,0 30.5272265,50.4509699,0 30.5270891,50.45105,0 30.5270133,50.4509788,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Центральний універмаг</name>
+				<open>1</open>
+				<description>1936-1938
+арх. Д. Фрідман та Л. Мецоян, творча майстерня А. Щусева
+
+1955–1958 добудовано
+арх. Гомоляка та Жога
+
+2012–2016 перебудовано із збереженням фасаду
+ТАМ Л. П. Скорик, ГІП А. М. Кислий, ГАП Л. П. Скорик, арх. О. В. Єрмакова, Т. С. Котова, А. Ярина</description>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/30601064</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>2</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Богдана Хмельницького вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>retail</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+					<Data name="disused:shop">
+						<value>mall</value>
+					</Data>
+					<Data name="name">
+						<value>Центральний універмаг</value>
+					</Data>
+					<Data name="name:de">
+						<value>Zentralkaufhaus</value>
+					</Data>
+					<Data name="name:en">
+						<value>Central Department Store</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Центральный универмаг</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Центральний універмаг</value>
+					</Data>
+					<Data name="official_name">
+						<value>Центральний універсальний магазин</value>
+					</Data>
+					<Data name="short_name">
+						<value>ЦУМ</value>
+					</Data>
+					<Data name="short_name:de">
+						<value>ZUM</value>
+					</Data>
+					<Data name="short_name:en">
+						<value>CUM</value>
+					</Data>
+					<Data name="wikidata">
+						<value>Q4504385</value>
+					</Data>
+					<Data name="wikipedia">
+						<value>uk:ЦУМ (Київ)</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5201672,50.4452537,0 30.5201076,50.4450907,0 30.5202354,50.4450698,0 30.5206343,50.4450045,0 30.5207555,50.44505630000001,0 30.5208514,50.4450973,0 30.5210079,50.44557420000001,0 30.521041,50.4456751,0 30.5207277,50.4457114,0 30.52078114647691,50.44583849687545,0 30.52067579572596,50.44584941553542,0 30.52063795756924,50.44574025902325,0 30.5205514,50.4457514,0 30.5205284,50.4456873,0 30.52049870000001,50.4456898,0 30.5204597,50.44557150000001,0 30.5205133,50.44556440000001,0 30.5204852,50.4454858,0 30.520616,50.44546499999999,0 30.5205556,50.44529169999999,0 30.5203985,50.4452204,0 30.5201672,50.4452537,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1917-1929</name>
+		</Folder>
+		<Folder>
+			<name>1900-1917</name>
+			<open>1</open>
+			<Placemark>
+				<name>Пасаж</name>
+				<open>1</open>
+				<description>вул. Хрещатик, 15
+
+1913-1914
+арх. Андрєєв
+
+Підірваний в 1941 р.
+
+1946–1955 відновлено
+арх. А. Добровольський, А. Малиновський, Б. Приймак, В. Созанський</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114572826</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>2</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Заньковецької вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5257218,50.447522,0 30.525566,50.4473843,0 30.5256397,50.4473585,0 30.5258223,50.4472885,0 30.5259393,50.4474178,0 30.5257218,50.447522,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Бессарабський критий ринок</name>
+				<open>1</open>
+				<description>1912
+арх. Г. Гай
+інж. М. Бобрусов</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/152028455</value>
+					</Data>
+					<Data name="addr:city">
+						<value>Київ</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>2</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Бессарабська площа</value>
+					</Data>
+					<Data name="amenity">
+						<value>marketplace</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>3</value>
+					</Data>
+					<Data name="name">
+						<value>Бессарабський ринок</value>
+					</Data>
+					<Data name="name:en">
+						<value>Bessarabskyi market</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Бессарабский рынок</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Бессарабський ринок</value>
+					</Data>
+					<Data name="wikidata">
+						<value>Q2627311</value>
+					</Data>
+					<Data name="wikipedia">
+						<value>uk:Бессарабський ринок</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5221113,50.4422155,0 30.5221582,50.4422944,0 30.5221636,50.4423921,0 30.5221257,50.4424726,0 30.5220582,50.4425381,0 30.5220127,50.4425704,0 30.5219552,50.44259289999999,0 30.5218821,50.4426148,0 30.5218095,50.442629,0 30.5217855,50.4426325,0 30.5212099,50.4427178,0 30.5211875,50.4427211,0 30.5211821,50.44270620000001,0 30.5210888,50.4424508,0 30.521045,50.4423309,0 30.5209885,50.44217610000001,0 30.5211487,50.44215210000001,0 30.5216287,50.44208130000001,0 30.5217728,50.4420741,0 30.5218615,50.4420859,0 30.5219652,50.4421169,0 30.5220558,50.4421661,0 30.5221113,50.4422155,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Будинок Київського відділення Російського для зовнішньої торгівлі банку</name>
+				<open>1</open>
+				<description>1913-1915
+арх. Ф. Лідваль
+художник-скульптор В. Кузнецов</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/178304518</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>32</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>4</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5213069,50.4471015,0 30.5215489,50.4470666,0 30.5216316,50.4472991,0 30.5213895,50.447334,0 30.5213498,50.4472224,0 30.5213069,50.4471015,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Пасаж</name>
+				<open>1</open>
+				<description>вул. Хрещатик, 15
+
+1913-1914
+арх. Андрєєв
+
+Підірваний в 1941 р.
+
+1946–1955 відновлено
+арх. А. Добровольський, А. Малиновський, Б. Приймак, В. Созанський</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114572825</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>4</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Заньковецької вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5252668,50.4473703,0 30.5251821,50.4472568,0 30.5254138,50.44716040000001,0 30.5253798,50.4471109,0 30.5255815,50.4470336,0 30.5257574,50.4472199,0 30.5258223,50.4472885,0 30.5256397,50.4473585,0 30.5255758,50.4472909,0 30.5255298,50.4472646,0 30.5252668,50.4473703,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Пасаж</name>
+				<open>1</open>
+				<description>вул. Хрещатик, 15
+
+1913-1914
+арх. Андрєєв
+
+Підірваний в 1941 р.
+
+1946–1955 відновлено
+арх. А. Добровольський, А. Малиновський, Б. Приймак, В. Созанський</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114572891</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>15</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>7</value>
+					</Data>
+					<Data name="name">
+						<value>Пасаж</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Пассаж</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5233363,50.4480116,0 30.5231912,50.44783629999999,0 30.5234115,50.44775940000001,0 30.5234391,50.4477906,0 30.5235397,50.4477545,0 30.5238305,50.44765019999999,0 30.5239369,50.447612,0 30.5238961,50.447566,0 30.5240112,50.4475246,0 30.5241014,50.4474923,0 30.5241613,50.44755990000001,0 30.5246523,50.4474369,0 30.5246002,50.4473893,0 30.5247279,50.44734650000001,0 30.52481780000001,50.4474046,0 30.5251821,50.4472568,0 30.5252668,50.4473703,0 30.5248455,50.44753790000001,0 30.5243949,50.4476464,0 30.5239564,50.4477841,0 30.5233996,50.4479884,0 30.5233363,50.4480116,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Пасаж</name>
+				<open>1</open>
+				<description>вул. Хрещатик, 15
+
+1913-1914
+арх. Андрєєв
+
+Підірваний в 1941 р.
+
+1946–1955 відновлено
+арх. А. Добровольський, А. Малиновський, Б. Приймак, В. Созанський</description>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/114573038</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>15</value>
+					</Data>
+					<Data name="addr:postcode">
+						<value>01001</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>5</value>
+					</Data>
+					<Data name="name">
+						<value>Пасаж</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Пассаж</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5235792,50.4483089,0 30.5234532,50.4481588,0 30.5233882,50.448077,0 30.5233363,50.4480116,0 30.5233996,50.4479884,0 30.5234545,50.448055,0 30.5235146,50.448128,0 30.5238425,50.44800899999999,0 30.5242681,50.4478545,0 30.5249035,50.4476696,0 30.525566,50.4473843,0 30.5257218,50.447522,0 30.5256661,50.4475413,0 30.525619,50.4474981,0 30.5252262,50.4476478,0 30.5252923,50.44771630000001,0 30.5245125,50.4479634,0 30.5240721,50.448123,0 30.5235792,50.4483089,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1850-1899</name>
+			<open>1</open>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1895-1896
+арх. О. Кривошеєв, І. Ніколаєв</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/71517794</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>44</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>4</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5201553,50.4439018,0 30.5201284,50.4438038,0 30.5204342,50.44378110000001,0 30.5205041,50.4439736,0 30.5205769,50.4441656,0 30.5205981,50.44423260000001,0 30.5203088,50.44427089999999,0 30.520275,50.44415939999999,0 30.519925,50.44418139999999,0 30.5200022,50.4443941,0 30.5200192,50.4444408,0 30.5199613,50.4444494,0 30.5197688,50.4444777,0 30.5196248,50.4440812,0 30.5197828,50.444058,0 30.5197649,50.4440088,0 30.5198583,50.443995,0 30.5198779,50.444049,0 30.5200784,50.4440403,0 30.5202721,50.44403189999999,0 30.5202199,50.4439048,0 30.5201553,50.4439018,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Житловий будинок</name>
+				<open>1</open>
+				<description>1875-1878
+арх. О. Гросс та В. Ніколаєв</description>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/147323150</value>
+					</Data>
+					<Data name="addr:housenumber">
+						<value>52</value>
+					</Data>
+					<Data name="addr:street">
+						<value>Хрещатик вулиця</value>
+					</Data>
+					<Data name="amenity">
+						<value>university</value>
+					</Data>
+					<Data name="building">
+						<value>yes</value>
+					</Data>
+					<Data name="building:levels">
+						<value>4</value>
+					</Data>
+					<Data name="name">
+						<value>Київський національний університет театру, кіно і телебачення ім. І. К. Карпенка-Карого</value>
+					</Data>
+					<Data name="name:ru">
+						<value>Киевский национальный университет театра, кино и телевидения им. И. К. Карпенко-Карого</value>
+					</Data>
+					<Data name="name:uk">
+						<value>Київський національний університет театру, кіно і телебачення ім. І. К. Карпенка-Карого</value>
+					</Data>
+					<Data name="website">
+						<value>http://knutkt.com.ua</value>
+					</Data>
+					<Data name="wheelchair">
+						<value>no</value>
+					</Data>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.5199425,50.4428201,0 30.5200781,50.44280010000001,0 30.5201402,50.4429711,0 30.5201735,50.4430628,0 30.5201868,50.44309939999999,0 30.5199542,50.4431336,0 30.5198456,50.44283430000001,0 30.5199425,50.4428201,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Готель «Пале-Рояль»</name>
+				<description>1898
+арх. А. Краус
+
+2000-2005
+перебудовано у ТРЦ &quot;Арена Сіті&quot; із частковим збереженням фасаду</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								30.52008122480261,50.44144112243562,0 30.52034779293138,50.44140260014236,0 30.52053793932861,50.44185973177198,0 30.52172696060265,50.44169189928854,0 30.52179314206969,50.44148689975945,0 30.52203319151473,50.441502511955,0 30.52199366865195,50.44175806084411,0 30.52201393462055,50.44179737376649,0 30.52032060847855,50.44205723625996,0 30.52008122480261,50.44144112243562,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1800-1849</name>
+		</Folder>
+		<Folder>
+			<name>1600-1799 (XVII-XVIII)</name>
+		</Folder>
+		<Folder>
+			<name>1400-1599 (XIV-XVII)</name>
+		</Folder>
+		<Folder>
+			<name>&lt;1399</name>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
